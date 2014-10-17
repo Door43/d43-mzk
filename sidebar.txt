@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mzk:home|Door43 (mzk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mzk|d43-mzk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mzk/archive/master.zip|d43-mzk.zip]]
+
+**Recent Changes**
+{{changes>ns = mzk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mzk|Ethnologue data]]
+
